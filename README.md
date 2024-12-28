@@ -73,8 +73,7 @@ Build a basic app that can:
 - Build a calendar system with day, week, and month views.
 - Allow booking and editing appointments.
 - Integrate a notification/reminder system.
-
-🛠️ F1 Learning Topics:
+- **🛠️ F1 Learning Topics:**
     - JavaScript date libraries (e.g., Moment.js, Luxon).
     - Calendar APIs (e.g., FullCalendar.js).
     - React libraries for state management (tanstack/react-query, useReducer, Context API).
