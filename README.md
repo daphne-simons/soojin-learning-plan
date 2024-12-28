@@ -1,4 +1,9 @@
-# 📚 Soojin's Learning Plan for Building a Practice Management Software
+# 📚 Soojin's Learning Plan 
+
+Lesson plan for Soojin to build and maintain her own Practice Management Software for her Accupuncture Clinic. 
+Inspired by current practise management softwares including;
+- Cliniko
+- Ninox
 
 ## 🗓️ Phase 1: Foundations of Web Development
 
@@ -100,7 +105,7 @@ Build a basic app that can:
 ### ✅ Project Milestone:
 - A functional MVP (Minimum Viable Product) with core features implemented.
 
-🧠 Suggested Resources:
+### 🧠 Suggested Resources:
 
 - Moment.js Documentation
 - FullCalendar.js Guide
@@ -109,26 +114,34 @@ Build a basic app that can:
 ---
 
 ## 🗓️ Phase 4: Advanced Topics and Deployment
-Goal: Improve software quality, usability, and scalability.
 
-Topics to Cover:
-Frontend Frameworks:
-React.js or Vue.js for dynamic interfaces.
-Deployment:
-Hosting (e.g., Vercel, Netlify for frontend; AWS, Heroku for backend).
-Testing:
-Unit and Integration testing (e.g., Jest, Mocha).
-Security and Compliance:
-HIPAA compliance (if storing health data).
-Data encryption and secure storage.
-✅ Project Milestone:
-Deploy the practice management software to a live environment.
-Conduct user testing with a small group of patients.
-🧠 Suggested Resources:
+### Goal: Improve software quality, usability, and scalability.
 
-React.js Official Docs
-Heroku Deployment Guide
-OWASP Web Security Guide
+### Topics to Cover:
+
+1. Frontend Frameworks:
+        - React.js or Vue.js for dynamic interfaces.
+2. Deployment:
+        - Hosting (e.g., Vercel, Netlify for frontend; AWS, Heroku for backend).
+3. Testing:
+        - Unit and Integration testing (e.g., Jest, Mocha).
+4. Security and Compliance:
+        - HIPAA compliance (if storing health data).
+        - Data encryption and secure storage.
+   
+### ✅ Project Milestone:
+
+- Deploy the practice management software to a live environment.
+- Conduct user testing with a small group of patients.
+
+### 🧠 Suggested Resources:
+
+- React.js Official Docs
+- Dokku, Heroku or Railway Deployment Guide
+- OWASP Web Security Guide
+
+--- 
+
 🗓️ Phase 5: Continuous Improvement and Iteration
 Gather feedback from users.
 Optimize performance and usability.
