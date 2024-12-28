@@ -1,25 +1,32 @@
 # 📚 Soojin's Learning Plan for Building a Practice Management Software
 
-🗓️ Phase 1: Foundations of Web Development
-Goal: Build a solid understanding of core web technologies.
+## 🗓️ Phase 1: Foundations of Web Development
 
-Topics to Cover:
-HTML & CSS:
-Structure and style web pages.
-Responsive design (Flexbox, Grid).
-JavaScript Basics:
-Variables, functions, loops, conditionals.
-DOM manipulation.
-Version Control (Git & GitHub):
-Commit, branch, merge, pull requests.
-🛠️ Project Milestone:
-Build a simple website with a homepage, contact form, and scheduling page.
-🧠 Suggested Resources:
+**Goal: Build a solid understanding of core web technologies.
+**
 
-FreeCodeCamp (HTML/CSS/JavaScript sections)
-MDN Web Docs
-GitHub Learning Lab
-🗓️ Phase 2: Backend Development Basics
+**Topics to Cover:
+**
+1. HTML & CSS:
+  - Structure and style web pages.
+  - Responsive design (Flexbox, Grid).
+2. JavaScript Basics:
+  - Variables, functions, loops, conditionals.
+  - DOM manipulation.
+3. Version Control (Git & GitHub):
+  - Commit, branch, merge, pull requests.
+  - 
+**🛠️ Project Milestone:**
+- Build a simple website with a homepage, contact form, and scheduling page.
+
+🧠 Resources:
+
+- FreeCodeCamp (HTML/CSS/JavaScript sections)
+- MDN Web Docs
+- GitHub Learning Lab
+
+
+## 🗓️ Phase 2: Backend Development Basics
 Goal: Learn server-side programming and databases.
 
 Topics to Cover:
