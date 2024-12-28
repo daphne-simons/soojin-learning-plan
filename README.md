@@ -159,5 +159,6 @@ Inspired by current practise management softwares including;
 
 - Consistency: Dedicate 1-2 hours per day to learning.
 - Projects First: Apply concepts by building small modules.
-- Community: Join developer communities (e.g., Stack Overflow, Reddit).
 - Iterate: Start simple and add complexity gradually.
+- Community: Join developer communities (e.g., Github, Discord, Stack Overflow, Reddit).
+
