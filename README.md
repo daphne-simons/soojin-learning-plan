@@ -71,7 +71,7 @@ Build a basic app that can:
 - Allow booking and editing appointments.
 - Integrate a notification/reminder system.
 
-**🛠️ F1 Learning Topics:**
+🛠️ F1 Learning Topics:
     - JavaScript date libraries (e.g., Moment.js, Luxon).
     - Calendar APIs (e.g., FullCalendar.js).
 
@@ -80,7 +80,7 @@ Build a basic app that can:
 - Enable uploading and managing files (e.g., PDFs, images).
 - Implement user authentication and secure access.
 
-**🛠️ F2 Learning Topics:**
+🛠️ F2 Learning Topics:
     - File upload APIs.
     - Authentication systems (e.g., JWT, OAuth).
     - Data encryption and security best practices.
@@ -89,7 +89,7 @@ Build a basic app that can:
 - Design invoice templates and integrate them into patient records.
 - Track payments and outstanding balances.
 
-**🛠️ F3 Learning Topics:**
+🛠️ F3 Learning Topics:
     - PDF generation (e.g., jsPDF).
     - Financial calculations and tax handling....?
   
@@ -98,7 +98,7 @@ Build a basic app that can:
 - Store form responses securely.
 - Integrate responses into patient records.
 
-**🛠️ Learning Topics:**
+🛠️ F4 Learning Topics:
     - Form handling libraries (e.g., Formik, React Hook Form).
     - Backend form validation.
 
