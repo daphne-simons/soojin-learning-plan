@@ -1,6 +1,6 @@
 # 📚 Soojin's Learning Plan 
 
-Lesson plan for Soojin to build and maintain her own Practice Management Software for her Accupuncture Clinic. 
+Lesson plan for Soojin to build, deploy and maintain her own Practice Management Software for her Accupuncture Clinic. 
 Inspired by current practise management softwares including;
 - Cliniko
 - Ninox
