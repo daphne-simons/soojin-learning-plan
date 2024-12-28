@@ -2,11 +2,10 @@
 
 ## 🗓️ Phase 1: Foundations of Web Development
 
-**Goal: Build a solid understanding of core web technologies.
-**
+### Goal: Build a solid understanding of core web technologies.
 
-**Topics to Cover:
-**
+### Topics to Cover:
+
 1. HTML & CSS:
   - Structure and style web pages.
   - Responsive design (Flexbox, Grid).
@@ -15,11 +14,12 @@
   - DOM manipulation.
 3. Version Control (Git & GitHub):
   - Commit, branch, merge, pull requests.
-  - 
-**🛠️ Project Milestone:**
+
+
+### 🛠️ Project Milestone:
 - Build a simple website with a homepage, contact form, and scheduling page.
 
-🧠 Resources:
+### 🧠 Resources:
 
 - FreeCodeCamp (HTML/CSS/JavaScript sections)
 - MDN Web Docs
