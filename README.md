@@ -17,6 +17,7 @@
 
 
 ### 🛠️ Project Milestone:
+
 - Build a simple website with a homepage, contact form, and scheduling page.
 
 ### 🧠 Resources:
@@ -34,19 +35,19 @@
 ### Topics to Cover:
 
 1. Backend Framework:
-  - Learn a beginner-friendly backend framework: Node.js + Express (JavaScript) 
+      - Learn a beginner-friendly backend framework: Node.js + Express (JavaScript) 
 2. Databases:
-  - Basics of SQL (e.g., PostgreSQL, MySQL).
-  - Basics of NoSQL (e.g., MongoDB).
+      - Basics of SQL (e.g., PostgreSQL, MySQL).
+      - Basics of NoSQL (e.g., MongoDB).
 3. APIs:
-  - RESTful API design.
-  - How to connect frontend and backend.
+      - RESTful API design.
+      - How to connect frontend and backend.
     
 ### 🛠️ Project Milestone:
 
 Build a basic app that can:
-- Store and retrieve patient data in a database.
-- Handle simple CRUD (Create, Read, Update, Delete) operations.
+    - Store and retrieve patient data in a database.
+    - Handle simple CRUD (Create, Read, Update, Delete) operations.
 
 ### 🧠 Suggested Resources:
 
@@ -56,52 +57,58 @@ Build a basic app that can:
 
 ---
 
-🗓️ Phase 3: Build Key Features Inspired by Cliniko
-Goal: Develop each core feature of the practice management software incrementally.
+## 🗓️ Phase 3: Build Key Features Inspired by Cliniko
 
-🚀 Feature 1: Appointment Scheduling System
-Build a calendar system with day, week, and month views.
-Allow booking and editing appointments.
-Integrate a notification/reminder system.
-🛠️ Learning Topics:
+### Goal: Develop each core feature of the practice management software incrementally.
 
-JavaScript date libraries (e.g., Moment.js, Luxon).
-Calendar APIs (e.g., FullCalendar.js).
-📝 Feature 2: Patient Record Management
-Design a system to store and retrieve treatment notes.
-Enable uploading and managing files (e.g., PDFs, images).
-Implement user authentication and secure access.
-🛠️ Learning Topics:
+### 🚀 Feature 1: Appointment Scheduling System:
+- Build a calendar system with day, week, and month views.
+- Allow booking and editing appointments.
+- Integrate a notification/reminder system.
 
-File upload APIs.
-Authentication systems (e.g., JWT, OAuth).
-Data encryption and security best practices.
-💳 Feature 3: Invoice and Payment System
-Design invoice templates and integrate them into patient records.
-Track payments and outstanding balances.
-Integrate payment gateways (e.g., Stripe, PayPal).
-🛠️ Learning Topics:
+**🛠️ F1 Learning Topics:**
+- JavaScript date libraries (e.g., Moment.js, Luxon).
+- Calendar APIs (e.g., FullCalendar.js).
 
-Stripe API for payments.
-PDF generation (e.g., jsPDF).
-Financial calculations and tax handling.
-📋 Feature 4: Custom Patient Questionnaire Form
-Create a dynamic form builder.
-Store form responses securely.
-Integrate responses into patient records.
-🛠️ Learning Topics:
+### 📝 Feature 2: Patient Record Management:
+- Design a system to store and retrieve treatment notes.
+- Enable uploading and managing files (e.g., PDFs, images).
+- Implement user authentication and secure access.
 
-Form handling libraries (e.g., Formik, React Hook Form).
-Backend form validation.
-✅ Project Milestone:
-A functional MVP (Minimum Viable Product) with core features implemented.
+**🛠️ F2 Learning Topics:**
+- File upload APIs.
+- Authentication systems (e.g., JWT, OAuth).
+- Data encryption and security best practices.
+
+### 💳 Feature 3: Invoice and Payment System
+- Design invoice templates and integrate them into patient records.
+- Track payments and outstanding balances.
+
+**🛠️ F3 Learning Topics:**
+- PDF generation (e.g., jsPDF).
+- Financial calculations and tax handling....?
+  
+### 📋 Feature 4: Custom Patient Questionnaire Form
+- Create a dynamic form builder.
+- Store form responses securely.
+- Integrate responses into patient records.
+
+**🛠️ Learning Topics:**
+- Form handling libraries (e.g., Formik, React Hook Form).
+- Backend form validation.
+
+### ✅ Project Milestone:
+- A functional MVP (Minimum Viable Product) with core features implemented.
+
 🧠 Suggested Resources:
 
-Moment.js Documentation
-FullCalendar.js Guide
-Stripe API Docs
-Formik Documentation
-🗓️ Phase 4: Advanced Topics and Deployment
+- Moment.js Documentation
+- FullCalendar.js Guide
+- Formik Documentation
+
+---
+
+## 🗓️ Phase 4: Advanced Topics and Deployment
 Goal: Improve software quality, usability, and scalability.
 
 Topics to Cover:
