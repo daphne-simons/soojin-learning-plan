@@ -82,7 +82,7 @@ Build a basic app that can:
 - Design a system to store and retrieve treatment notes.
 - Enable uploading and managing files (e.g., PDFs, images).
 - Implement user authentication and secure access.
-- 🛠️ F2 Learning Topics:
+- **🛠️ F2 Learning Topics:**
     - File upload APIs (multer.js).
     - Authentication systems (e.g., JWT, OAuth).
     - Data encryption and security best practices.
@@ -90,8 +90,7 @@ Build a basic app that can:
 ### 💳 Feature 3: Invoice and Payment System
 - Design invoice templates and integrate them into patient records.
 - Track payments and outstanding balances.
-
-🛠️ F3 Learning Topics:
+- **🛠️ F3 Learning Topics:**
     - PDF generation (e.g., jsPDF).
     - Financial calculations and tax handling....?
   
@@ -99,10 +98,10 @@ Build a basic app that can:
 - Create a dynamic form builder.
 - Store form responses securely.
 - Integrate responses into patient records.
-
-🛠️ F4 Learning Topics:
+- **🛠️ F4 Learning Topics:**
     - Form handling libraries (e.g., Formik, React Hook Form).
     - Backend form validation.
+    - Dynamic forms in React.
 
 ### ✅ Project Milestone:
 
