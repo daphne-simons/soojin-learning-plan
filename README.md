@@ -83,9 +83,8 @@ Build a basic app that can:
 - Design a system to store and retrieve treatment notes.
 - Enable uploading and managing files (e.g., PDFs, images).
 - Implement user authentication and secure access.
-
-🛠️ F2 Learning Topics:
-    - File upload APIs.
+- 🛠️ F2 Learning Topics:
+    - File upload APIs (multer.js).
     - Authentication systems (e.g., JWT, OAuth).
     - Data encryption and security best practices.
 
