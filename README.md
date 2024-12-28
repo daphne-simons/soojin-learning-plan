@@ -7,13 +7,13 @@
 ### Topics to Cover:
 
 1. HTML & CSS:
-  - Structure and style web pages.
-  - Responsive design (Flexbox, Grid).
+    - Structure and style web pages.
+    - Responsive design (Flexbox, Grid).
 2. JavaScript Basics:
-  - Variables, functions, loops, conditionals.
-  - DOM manipulation.
+    - Variables, functions, loops, conditionals.
+    - DOM manipulation.
 3. Version Control (Git & GitHub):
-  - Commit, branch, merge, pull requests.
+    - Commit, branch, merge, pull requests.
 
 
 ### 🛠️ Project Milestone:
