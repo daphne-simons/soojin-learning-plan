@@ -120,14 +120,17 @@ Build a basic app that can:
 ### Topics to Cover:
 
 1. Frontend Frameworks:
-        - React.js or Vue.js for dynamic interfaces.
+    - React.js or Vue.js for dynamic interfaces.
+      
 2. Deployment:
-        - Hosting (e.g., Vercel, Netlify for frontend; AWS, Heroku for backend).
+    - Hosting (e.g., Vercel, Netlify for frontend; AWS, Heroku for backend).
+     
 3. Testing:
-        - Unit and Integration testing (e.g., Jest, Mocha).
+    - Unit and Integration testing (e.g., Vitest, Jest, Mocha).
+     
 4. Security and Compliance:
-        - HIPAA compliance (if storing health data).
-        - Data encryption and secure storage.
+    - HIPAA compliance (if storing health data).
+    - Data encryption and secure storage.
    
 ### ✅ Project Milestone:
 
@@ -142,12 +145,17 @@ Build a basic app that can:
 
 --- 
 
-🗓️ Phase 5: Continuous Improvement and Iteration
-Gather feedback from users.
-Optimize performance and usability.
-Add advanced features like analytics, automated reminders, and patient portals.
-🧠 Mindset and Habits for Success:
-Consistency: Dedicate 1-2 hours per day to learning.
-Projects First: Apply concepts by building small modules.
-Community: Join developer communities (e.g., Stack Overflow, Reddit).
-Iterate: Start simple and add complexity gradually.
+## 🗓️ Phase 5: Continuous Improvement and Iteration
+
+- Gather feedback from users.
+- Optimize performance and usability.
+- Add advanced features like analytics, automated reminders, and patient portals.
+
+--- 
+
+## 🧠 Mindset and Habits for Success:
+
+- Consistency: Dedicate 1-2 hours per day to learning.
+- Projects First: Apply concepts by building small modules.
+- Community: Join developer communities (e.g., Stack Overflow, Reddit).
+- Iterate: Start simple and add complexity gradually.
