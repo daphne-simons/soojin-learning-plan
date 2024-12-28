@@ -24,7 +24,7 @@ Inspired by current practise management softwares including;
     - State and hooks (useState, useEffect).
     - JSX syntax.
 
-### 🛠️ Project Milestone:
+### ✅ Project Milestone:
 
 - Build a simple website with a homepage, contact form, and scheduling page.
 
@@ -51,9 +51,9 @@ Inspired by current practise management softwares including;
       - RESTful API design.
       - How to connect frontend (React) and backend.
     
-### 🛠️ Project Milestone:
+### ✅ Project Milestone:
 
-Build a basic app that can:
+- Build a basic app that can:
     - Store and retrieve patient data in a database.
     - Handle simple CRUD (Create, Read, Update, Delete) operations.
 
