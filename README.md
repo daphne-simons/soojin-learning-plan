@@ -19,7 +19,10 @@ Inspired by current practise management softwares including;
     - DOM manipulation.
 3. Version Control (Git & GitHub):
     - Commit, branch, merge, pull requests.
-
+4. React Fundamentals:
+    - Components and props.
+    - State and hooks (useState, useEffect).
+    - JSX syntax.
 
 ### 🛠️ Project Milestone:
 
@@ -46,7 +49,7 @@ Inspired by current practise management softwares including;
       - Basics of NoSQL (e.g., MongoDB).
 3. APIs:
       - RESTful API design.
-      - How to connect frontend and backend.
+      - How to connect frontend (React) and backend.
     
 ### 🛠️ Project Milestone:
 
@@ -74,6 +77,7 @@ Build a basic app that can:
 🛠️ F1 Learning Topics:
     - JavaScript date libraries (e.g., Moment.js, Luxon).
     - Calendar APIs (e.g., FullCalendar.js).
+    - React libraries for state management (tanstack/react-query, useReducer, Context API).
 
 ### 📝 Feature 2: Patient Record Management:
 - Design a system to store and retrieve treatment notes.
