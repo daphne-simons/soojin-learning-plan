@@ -72,8 +72,8 @@ Build a basic app that can:
 - Integrate a notification/reminder system.
 
 **🛠️ F1 Learning Topics:**
-- JavaScript date libraries (e.g., Moment.js, Luxon).
-- Calendar APIs (e.g., FullCalendar.js).
+    - JavaScript date libraries (e.g., Moment.js, Luxon).
+    - Calendar APIs (e.g., FullCalendar.js).
 
 ### 📝 Feature 2: Patient Record Management:
 - Design a system to store and retrieve treatment notes.
@@ -81,17 +81,17 @@ Build a basic app that can:
 - Implement user authentication and secure access.
 
 **🛠️ F2 Learning Topics:**
-- File upload APIs.
-- Authentication systems (e.g., JWT, OAuth).
-- Data encryption and security best practices.
+    - File upload APIs.
+    - Authentication systems (e.g., JWT, OAuth).
+    - Data encryption and security best practices.
 
 ### 💳 Feature 3: Invoice and Payment System
 - Design invoice templates and integrate them into patient records.
 - Track payments and outstanding balances.
 
 **🛠️ F3 Learning Topics:**
-- PDF generation (e.g., jsPDF).
-- Financial calculations and tax handling....?
+    - PDF generation (e.g., jsPDF).
+    - Financial calculations and tax handling....?
   
 ### 📋 Feature 4: Custom Patient Questionnaire Form
 - Create a dynamic form builder.
@@ -99,10 +99,11 @@ Build a basic app that can:
 - Integrate responses into patient records.
 
 **🛠️ Learning Topics:**
-- Form handling libraries (e.g., Formik, React Hook Form).
-- Backend form validation.
+    - Form handling libraries (e.g., Formik, React Hook Form).
+    - Backend form validation.
 
 ### ✅ Project Milestone:
+
 - A functional MVP (Minimum Viable Product) with core features implemented.
 
 ### 🧠 Suggested Resources:
