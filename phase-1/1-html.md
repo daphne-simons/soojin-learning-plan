@@ -12,9 +12,8 @@ Then you will use the HTML basics to create a simple webpage with a home page, s
 - Forms: `<form>, <input>, <button>, <textarea>, <select>`
 - Semantic HTML
 
-### Course:
+### Course to Complete:
 - [Codecademy: HTML Basics](https://www.codecademy.com/learn/learn-html) 
-    - Time to complete: 7 hours
 
 ### Practical Exersize: 
 - TODO: Flesh out the practical exersize. 
