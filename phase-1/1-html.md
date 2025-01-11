@@ -20,5 +20,5 @@ Then you will use the HTML basics to create a simple webpage with a home page, s
 
 ### Useful Resources:  
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [MDN Tutorial: Your First Website](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/What_will_your_website_look_like)
+- [MDN Tutorial: Your First Website - HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content)
 - [W3 Schools: HTML Tutorial](https://www.w3schools.com/Html/default.asp)

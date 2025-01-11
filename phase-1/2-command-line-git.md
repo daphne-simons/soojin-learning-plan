@@ -15,7 +15,6 @@ You will learn the basics of how to interact with the command line. And then you
 - [Video Tutorial: Git and Github for Poets - 13:43 mins)](https://www.youtube.com/watch?v=BCQHnlnPusY)
 - [Practical Course: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
-
 ### Practical Exersize:
 - Initialize a Git repository for the udemy project.
 - Push the project to your GitHub.
@@ -24,3 +23,4 @@ You will learn the basics of how to interact with the command line. And then you
 - [FreeCodeCamp: Command Line](https://www.freecodecamp.org/news/command-line-for-beginners/)
 - [Command Line Commands - Cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+
