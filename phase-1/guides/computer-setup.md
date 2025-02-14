@@ -1,32 +1,6 @@
-# Section 0: Install Software and Set up Computer
+## Computer setup for your MacOS computer. 
 
-1. You will need a command line tool app, For Mac computers, you can use `Terminal` (you probably already have it on your laptop)
-
-2. You will need to a code editor, I recommend downloading and using Visual Studio Code: 
-- [Download VSCode](https://code.visualstudio.com/download)
-
-
-3. You will need to install Git on your computer to use Github. 
-- [ ] Create an account on Github
-- [ ] Install Git on your computer
-- [ ] Create and add a github ssh key to your computer 
-- [ ] Test cloning a repo, making changes, commiting your changes and adding it back to Github. 
-
-Have a go at doing these steps, but if you get stuck, you can always refer to the:
-
-- [ ] [Computer Setup](https://github.com/daphne-simons/phase-1/blob/main/phase-1/0-computer-setup.md)
-
-3. Set up your MacOS computer. 
-
-If you are using the latest MacOS (Monterey) please note that you need to be running the latest version of the Discord desktop app for screen sharing to function. If you encounter problems, you can use Discord in a Safari browser.
-
----
-
-Pro-tip: There's a copy button hidden in the top-right of each code block for easy copy/pasting.
-
-![Screen Shot of clicking on the copy button](https://user-images.githubusercontent.com/47387/161153831-7a3ca544-0ad2-4977-aec8-92436f1a6bc5.png)
-
-This guide is mostly running commands in the Terminal app.
+This guide is mostly running commands in your Terminal app.
 
 ### 1. Installing XCode Command-line Developer Tools
 
@@ -223,8 +197,7 @@ which node
 
 If it logs "node not found", that's perfect. We want NVM to manage node and npm on our dev machine.
 
-If it logs anything else e.g. `/usr/bin/node`, you need to uninstall node, this differs depending on
-how you installed it. Contact a facilitator if you get stuck
+If it logs anything else e.g. `/usr/bin/node`, you need to uninstall node, this differs depending on how you installed it. Contact a facilitator if you get stuck
 
 Enter this command into your terminal to download and install nvm:
 
