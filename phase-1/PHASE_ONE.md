@@ -6,12 +6,12 @@ Build a solid understanding of core web technologies.
 
 ### Topics to Cover:
 
-1. HTML & CSS:
-    - Structure and style web pages.
-    - Responsive design (Flexbox, Grid).
-2. Version Control (Git & GitHub):
+1. Command Line and Version Control (Git & GitHub):
     - learn basics of Git and version control. 
     - Commit, branch, merge, pull requests.
+2. HTML & CSS:
+    - Structure and style web pages.
+    - Responsive design (Flexbox, Grid).
 3. JavaScript Basics:
     - Variables, functions, loops, conditionals.
     - DOM manipulation.

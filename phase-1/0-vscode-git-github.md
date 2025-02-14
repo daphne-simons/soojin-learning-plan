@@ -1,11 +1,15 @@
-# Section 0: Install Software and Set up Computer
+# Install Software and Set up Computer
 
 ### Project: 
-- [ ] Check you have a command line tool, For Mac computers, you probably already have Terminal (check your applications folder)
-- [ ] Downloading Visual Studio Code: [Download VSCode](https://code.visualstudio.com/download)
+
+- [ ] Do you have a command line tool? e.g. Terminal (check your applications folder)
+- [ ] Download Visual Studio Code: [Download VSCode](https://code.visualstudio.com/download)
 - [ ] Install NVM and node
 
 ### Resources:
-<details><summary>Use these resources if you get stuck at any point during the `Project`.</summary>  
+
+<details><summary> Use these resources if you get stuck at any point during the **Project**: </summary>   
+
 - [Step-By-Step Computer Setup](https://github.com/daphne-simons/phase-1/blob/main/phase-1/guides/computer-setup.md)
+
  </details>
