@@ -24,7 +24,7 @@
 
 ## Resources:
 
-Use these resources if you get stuck at any point during the **Project**: 
+Use these resources if you get stuck at any point during the <strong>Project</strong>: 
 
 <details><summary> Terminal Commands: </summary>
 

@@ -55,7 +55,7 @@
 
 ## Resources: 
 
-<details><summary> Use these resources if you get stuck at any point during the **Project**: </summary>
+<details><summary> Use these resources if you get stuck at any point during the <strong>Project</strong>: </summary>
 
 - [MDN: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [W3 Schools: HTML Tutorial](https://www.w3schools.com/Html/default.asp)

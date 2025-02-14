@@ -8,7 +8,7 @@
 
 ### Resources:
 
-<details><summary> Use these resources if you get stuck at any point during the **Project**: </summary>   
+Use this resource if you get stuck at any point during the <strong>Project</strong>:
 
 - [Step-By-Step Computer Setup](https://github.com/daphne-simons/phase-1/blob/main/phase-1/guides/computer-setup.md)
 
