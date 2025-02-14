@@ -8,7 +8,7 @@
 - Making a branch, commits, pushing.
 - Creating and managing pull requests.
 
-## Project:
+## ✏️ Project:
 
 - [ ] Using your Terminal, create a new folder called `workspace`, this is where you will keep all your coding projects (aka repositories). 
 - [ ] Install Git on your computer
@@ -22,7 +22,7 @@
 - [ ] On github, Create a pull request from `soojin` to `main`, send Daphne a link to your Pull Request. 
 
 
-## Resources:
+## 🧠 Resources:
 
 Use these resources if you get stuck at any point during the <strong>Project</strong>: 
 

@@ -12,7 +12,7 @@
 - Forms: `<form>, <input>, <button>, <textarea>, <select>`
 - Semantic HTML
 
-## Project: 
+## ✏️ Project: 
 
 - [ ]  Create a new repository on Github called `soojin-blog`.   
 - [ ] Using your terminal, `cd` into your workspace folder and clone the repository you just created. 
@@ -53,7 +53,7 @@
 
 - [ ] Make sure all your changes have been saved, commited and pushed up to github, and Send Daphne a link to your github repository.
 
-## Resources: 
+## 🧠 Resources: 
 
 <details><summary> Use these resources if you get stuck at any point during the <strong>Project</strong>: </summary>
 

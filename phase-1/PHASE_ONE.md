@@ -1,10 +1,10 @@
 # 🗓️ Phase 1: Foundations of Web Development
 
-### Goal 
+## Goal 
 
 Build a solid understanding of core web technologies.
 
-### Topics to Cover:
+## Topics to Cover:
 
 1. Command Line and Version Control (Git & GitHub):
     - learn basics of Git and version control. 
@@ -22,11 +22,11 @@ Build a solid understanding of core web technologies.
     - State and hooks (useState, useEffect).
     - JSX syntax.
 
-### ✅ Project Milestone:
+##  ✏️ Project Milestone:
 
 - Build a simple website with a homepage, contact form, and scheduling page.
 
-### 🧠 Resources:
+## 🧠 Resources:
 
 - Codecademy
 - W3 Schools

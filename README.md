@@ -7,6 +7,13 @@ Inspired by current practise management softwares including;
 - Ninox
 
 ## [🗓️ Phase 1: Foundations of Web Development](./phase-1/PHASE_ONE.md)
+1. [Overview](./phase-1/PHASE_ONE.md)
+1. [Command Line and Version Control](./phase-1/1-command-line-git.md)
+1. [HTML](./phase-1/2-html.md)
+1. [CSS](./phase-1/3.css.md)
+1. More coming soon
+
+</details>
 
 ## [🗓️ Phase 2: Backend Development Basics](./phase-2/PHASE_TWO.md)
 
